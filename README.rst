@@ -8,8 +8,8 @@ Notes
 ----
 
 
-.. sectnum::
-.. contents:: Table of Contents
+
+.. contents:: **Table of Contents**
 
 
 MacOS
